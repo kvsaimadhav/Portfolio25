@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio25/static/css/main.eb6438db.css",
+    "main.js": "/portfolio25/static/js/main.cd8d7f6b.js",
+    "static/js/453.7bfaaf6f.chunk.js": "/portfolio25/static/js/453.7bfaaf6f.chunk.js",
+    "static/media/Oracle.pdf": "/portfolio25/static/media/Oracle.1ee5e663ddcf3def4d93.pdf",
+    "static/media/bg_project.jpg": "/portfolio25/static/media/bg_project.ea4cfbdb74be3d023db5.jpg",
+    "static/media/Photo.jpg": "/portfolio25/static/media/Photo.f72e2e3846744b1e1e33.jpg",
+    "static/media/CV.pdf": "/portfolio25/static/media/CV.2500c09645653a13a4d7.pdf",
+    "static/media/security.jpg": "/portfolio25/static/media/security.bf20cbcfa19b287b6ddf.jpg",
+    "static/media/Resume.pdf": "/portfolio25/static/media/Resume.3e37aa172451534bca10.pdf",
+    "static/media/AmazonWebServices.pdf": "/portfolio25/static/media/AmazonWebServices.3544d9e075f818d35f82.pdf",
+    "static/media/work.jpg": "/portfolio25/static/media/work.2becc6f58ff2268b126d.jpg",
+    "static/media/covidtrack.jpg": "/portfolio25/static/media/covidtrack.b3b8a9f0f98d00a1542e.jpg",
+    "static/media/bg.jpg": "/portfolio25/static/media/bg.b6d6b6607adefdea59a7.jpg",
+    "static/media/bits.jpg": "/portfolio25/static/media/bits.ef03f132b495e8ac4df8.jpg",
+    "static/media/contact.jpg": "/portfolio25/static/media/contact.ce7bd8672d03f69c55e4.jpg",
+    "index.html": "/portfolio25/index.html",
+    "main.eb6438db.css.map": "/portfolio25/static/css/main.eb6438db.css.map",
+    "main.cd8d7f6b.js.map": "/portfolio25/static/js/main.cd8d7f6b.js.map",
+    "453.7bfaaf6f.chunk.js.map": "/portfolio25/static/js/453.7bfaaf6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb6438db.css",
+    "static/js/main.cd8d7f6b.js"
+  ]
+}
