@@ -1,0 +1,75 @@
+.Contact{
+ background-image:  url('./images/contact.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.contactCard{
+  text-align: center;
+}
+.contactTb{
+  padding: 20px 40px;
+}
+
+.contactCard p{
+  font-size: 40px;
+  color: black;
+  font-weight: 400;
+}
+.contactCard a{
+  color: black;
+  padding: 5px 10px;
+}
+.contactInfo{
+  color: black;
+}
+.contactInfoBx{
+	position: relative;
+}
+.contactInfoBx .box{
+	position: relative;
+  padding: 5px 0px;
+	display: flex;
+}
+.contactInfoBx .box .text{
+	display: flex;
+	margin-left: 20px;
+	font-size: 16px;
+	color: black;
+	flex-direction: column;
+	font-weight: 300;
+}
+.contactInfoBx .box .text h3,p{
+  font-size: 20px;
+	font-weight: 500;
+	color: black;
+	margin-bottom: 0;
+}
+.formBx{
+  min-width: 600px;
+  position: relative;
+}
+.formBx form input,
+.formBx form textarea{
+	margin-bottom: 20px;
+	padding: 15px;
+	font-size: 16px;
+	border: none;
+	outline: none;
+  min-width: 600px;
+	background: lightyellow;
+	color: black;
+}
+.formBx form textarea{
+	min-height: 200px;
+}
+.formBx form input:placeholder,
+.formBx form textarea:placeholder{
+	color: #999;
+}
+.formBx form input[type="submit"]{
+	max-width: 150px;
+	background: #e98383;
+	cursor: pointer;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
