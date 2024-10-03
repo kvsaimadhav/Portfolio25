@@ -9,9 +9,9 @@ function Contact()
           <h2>Contact Me</h2>
           <p><i>Hey, there ... <br/>
             Please, connect with me on
-            <b><a href="https://www.linkedin.com/in/madhav-kaza-7702596857k/" rel="no-opener no-referrer" target="_blank">Linkedin</a></b>
+            <b><a href="https://www.linkedin.com/in/madhav-kaza-7702596857k/" rel="no-opener" target="_blank">Linkedin</a></b>
             and follow professional work on
-            <b><a href="https://github.com/kvsaimadhav" rel="no-opener no-referrer" target="_blank">GitHub</a></b></i>
+            <b><a href="https://github.com/kvsaimadhav" rel="no-opener" target="_blank">GitHub</a></b></i>
           </p>
         </div>
         <table className="contactTb">
