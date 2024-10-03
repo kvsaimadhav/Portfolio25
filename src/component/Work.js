@@ -19,7 +19,7 @@ function Work()
       </div>
       <div className="workContent">
       <div className="workBxCurr">
-          <img src={neemus}/>
+          <img src={neemus} alt="Current Company"/>
           <h3>Neemus Software Solutions</h3>
           <p>
             Projects consists of Core Backend Development with observation skillset. I worked on Qt Framework for 
@@ -31,7 +31,7 @@ function Work()
             </p>
         </div>
         <div className="workBxICurr">
-          <img src={drdo}/>
+          <img src={drdo} alt="Previous Immediate Company"/>
           <h3>DRDL Kanchanbagh</h3>
           <p>
             Project consists of Software with Oracle database had learnt. Enhanced skillset PL/SQL, Java/ JSP, ASP.net,
@@ -43,7 +43,7 @@ function Work()
           </p>
         </div>
         <div className="workBxPrev">
-          <img src={ssg}/>
+          <img src={ssg} alt="After Masters Degree in CS at CMich - Job Offered"/>
           <h3>Strategic Solutions Group</h3>
           <p>
             Project consists of Massachussets Virtual Epideomological Network, a diesease surveillence system 
