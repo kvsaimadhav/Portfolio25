@@ -12,7 +12,7 @@ function Academic()
       </div>
       <div class="academicContent">
         <div class="academicBx">
-          <img src={CMich}/>
+          <img src={CMich} alt="Central Michigan University Logo"/>
           <h3>CMU - Masters in Computer Science</h3>
           <p>
             Completed Masters degree in Computer Science in August 2021. Dedicated
@@ -21,7 +21,7 @@ function Academic()
           </p>
         </div>
         <div class="academicBx">
-          <img src={BITS}/>
+          <img src={BITS} alt="BITS Pilani Logo"/>
           <h3>BITS Pilani Alumni</h3>
           <p>
             Graduated in Bachelors Degree with a Pass. And, bagged BOSM'16 Medals,   
